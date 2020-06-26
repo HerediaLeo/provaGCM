@@ -1,0 +1,41 @@
+commit 23340cf3d5f22291c3d90b8e2c915487fcd3ca07
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:51:47 2020 -0300
+
+    Ajuste campos
+
+commit 9bdd3791b7fc051ba255e9bdfc6734c8f2009fd0
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:49:48 2020 -0300
+
+    [ADD] FILIACAO
+
+commit 4a08a3fba2c7d3b0ff971bf51d4bf0a1b7ccd833
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:48:17 2020 -0300
+
+    [ADD] DATA DE NASCIMENTO
+
+commit 776105070cbfba9151495faaf5f59e34442a885d
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:46:43 2020 -0300
+
+    [ADD] CEP DA RUA
+
+commit 15033e4df8bfa7f90050be9309ed1a71df6848ef
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:45:32 2020 -0300
+
+    [ADD] ENDEREÇO LEONARDO HEREDIA.
+
+commit 4e3cac55a8d2c8261cbe67b3f9f4550f50eabc71
+Author: HerediaLeo <lheredia1195@gmail.com>
+Date:   Thu Jun 25 21:44:19 2020 -0300
+
+    [ADD] TAREFA 2 - INSERINDO O NOME.
+
+commit d4dd1c26476a0d04dc5af13325a911727e869239
+Author: HerediaLeo <44714363+HerediaLeo@users.noreply.github.com>
+Date:   Thu Jun 25 21:37:33 2020 -0300
+
+    Initial commit
